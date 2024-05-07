@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hola👋
+
+Soy Diego Nahum! Estudiante de Ingeniería UC generación 2020.
+Uso github para programas de la universidad y estudio personal.
 
 <!--
 **diego-nahum/diego-nahum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
